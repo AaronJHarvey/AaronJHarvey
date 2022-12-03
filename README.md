@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**AaronJHarvey/AaronJHarvey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 Pronouns: He/Him/His
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on bettering myself and breaking into tech.
+- 🌱 I’m currently learning more and more about JavaScript (React) and SQL.
+- 👯 I’m looking to collaborate on anything that helps better the world and/or myself. 
+🤔 I’m looking for help with fiding my first job in tech. 
+- 📫 How to reach me: Harvey.AaronJ@gmail.com
+- 💬 Ask me about movies, comicbooks, and novels and you'll never get me to shut up. Ask me about anything you want to know. 
+- ⚡ Fun fact: I have a book collection that "legally" qualifies as a library (1000+ books).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Link to [my digital business card](https://ajh-digitalbusinesscard.netlify.app/) 
+
