@@ -3,7 +3,7 @@
 - 😄 Pronouns: He/Him/His
 
 - 🔭 I’m currently working on bettering myself and breaking into tech.
-- 🌱 I’m currently learning more and more about JavaScript (React) and SQL. Additionally I am beginning my journey towards becoming Salesforce Certified.
+- 🌱 I’m currently self teaching Java and SQL. Additionally I am beginning my journey towards becoming Salesforce Certified.
 - 👯 I’m looking to collaborate on anything that helps better the world and/or myself. 
 🤔 I’m looking for help with fiding my first job in tech. 
 - 📫 How to reach me: Harvey.AaronJ@gmail.com
